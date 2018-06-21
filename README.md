@@ -1,6 +1,3 @@
-[![Docker Pulls](https://img.shields.io/docker/pulls/kaixhin/vnc.svg)](https://hub.docker.com/r/kaixhin/vnc/)
-[![Docker Stars](https://img.shields.io/docker/stars/kaixhin/vnc.svg)](https://hub.docker.com/r/kaixhin/vnc/)
-
 #KePSLA
 vnc
 ===

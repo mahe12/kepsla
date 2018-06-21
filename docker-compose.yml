@@ -1,0 +1,9 @@
+version: '2'
+services:
+  tor_vnc_tomcat_firefox:
+    build:
+            context: ./
+            dockerfile: Dockerfile
+    ports:
+      - "9901:5901"
+      - "9000:8080"

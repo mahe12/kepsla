@@ -11,4 +11,4 @@ Usage
 -----
 The default password should be changed. To do so start up a container and then run `docker exec <id> bash -c "echo -e '<password>\n<password>\nn' | vncpasswd"`.
 
-Latest Updates
+Latest Updates new
